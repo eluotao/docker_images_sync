@@ -1,5 +1,1 @@
---rm
--i
--e
-OPENAPI_MCP_HEADERS
-mcp/notion
+mysql:8.0.1
