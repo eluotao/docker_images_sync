@@ -1,1 +1,5 @@
-python:latest
+--rm
+-i
+-e
+OPENAPI_MCP_HEADERS
+mcp/notion
